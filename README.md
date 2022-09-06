@@ -8,7 +8,7 @@
 
 ## Description
 
-This repository is created to solve the backend problem to MKS Developer,
+This api is being used to learn more about NestJS,
 Using Techs like:
 
 	TypeScript
